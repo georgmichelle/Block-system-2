@@ -1,4 +1,4 @@
-# Project Title
+# Block system 2.0
 
 A cutting-edge web application designed to deliver outstanding performance, scalability, and user experience. Developed by **Georg Michelle**, this project follows modern best practices to ensure maintainability and extensibility.
 
